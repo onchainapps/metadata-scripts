@@ -1,0 +1,63 @@
+{
+    "name": "88",
+    "description": "A combination of modern art aesthetic and early 20th century cubism inspired by the late Picasso.",
+    "image": "ipfs://QmdX617o3jRF5bFffdrs9ud1n8Pi3GVrB1BSzh4QLUE3JC/88.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crazy"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Cotton Candy"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Blue Squint"
+      },
+      {
+        "trait_type": "Right Eyebrow",
+        "value": "Moody"
+      },
+      {
+        "trait_type": "Left Eyebrow",
+        "value": "Sinister"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Puffer Jacket"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": ""
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Docker Beanie"
+      },
+      {
+        "trait_type": "Name",
+        "value": ""
+      },
+      {
+        "trait_type": "Generation",
+        "value": ""
+      }
+    ]
+  }

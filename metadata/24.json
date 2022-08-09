@@ -1,0 +1,63 @@
+{
+    "name": "24",
+    "description": "A combination of modern art aesthetic and early 20th century cubism inspired by the late Picasso.",
+    "image": "ipfs://QmeAVfDgQTpLn4aGDBWa7zzBqRVYPmrBeCCddEBgCAT6z8/24.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Snarl Gold Grill"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Glass"
+      },
+      {
+        "trait_type": "Right Eyebrow",
+        "value": "Tranquil"
+      },
+      {
+        "trait_type": "Left Eyebrow",
+        "value": "Calm"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Pablo des Gar�ons"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": ""
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Docker Beanie"
+      },
+      {
+        "trait_type": "Name",
+        "value": ""
+      },
+      {
+        "trait_type": "Generation",
+        "value": "1"
+      }
+    ]
+  }

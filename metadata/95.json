@@ -1,0 +1,63 @@
+{
+    "name": "95",
+    "description": "A combination of modern art aesthetic and early 20th century cubism inspired by the late Picasso.",
+    "image": "ipfs://QmdX617o3jRF5bFffdrs9ud1n8Pi3GVrB1BSzh4QLUE3JC/95.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Unbothered Blue"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Cotton Candy"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Blue Squint"
+      },
+      {
+        "trait_type": "Right Eyebrow",
+        "value": "Tranquil"
+      },
+      {
+        "trait_type": "Left Eyebrow",
+        "value": "Sinister"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Fur Coat Dalmation"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": ""
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Party Hat"
+      },
+      {
+        "trait_type": "Name",
+        "value": ""
+      },
+      {
+        "trait_type": "Generation",
+        "value": ""
+      }
+    ]
+  }

@@ -1,0 +1,63 @@
+{
+    "name": "76",
+    "description": "A combination of modern art aesthetic and early 20th century cubism inspired by the late Picasso.",
+    "image": "ipfs://QmdX617o3jRF5bFffdrs9ud1n8Pi3GVrB1BSzh4QLUE3JC/76.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Grey"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Crazy Blue"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Jade"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Right Eyebrow",
+        "value": "Tranquil"
+      },
+      {
+        "trait_type": "Left Eyebrow",
+        "value": "Snooty"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "T-Shirt Blue Stripes"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "Nose Ring"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Kings Crown"
+      },
+      {
+        "trait_type": "Name",
+        "value": ""
+      },
+      {
+        "trait_type": "Generation",
+        "value": ""
+      }
+    ]
+  }

@@ -1,0 +1,63 @@
+{
+    "name": "16",
+    "description": "A combination of modern art aesthetic and early 20th century cubism inspired by the late Picasso.",
+    "image": "ipfs://QmeAVfDgQTpLn4aGDBWa7zzBqRVYPmrBeCCddEBgCAT6z8/16.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Peach"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Ear"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Snarl Gold Grill"
+      },
+      {
+        "trait_type": "Right Eye",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Left Eye",
+        "value": "Glass"
+      },
+      {
+        "trait_type": "Right Eyebrow",
+        "value": "Moody"
+      },
+      {
+        "trait_type": "Left Eyebrow",
+        "value": "Sinister"
+      },
+      {
+        "trait_type": "Clothing",
+        "value": "Tuxedo"
+      },
+      {
+        "trait_type": "Jewelry",
+        "value": "Nose Ring"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Pablo Fitted Red"
+      },
+      {
+        "trait_type": "Name",
+        "value": ""
+      },
+      {
+        "trait_type": "Generation",
+        "value": "1"
+      }
+    ]
+  }
